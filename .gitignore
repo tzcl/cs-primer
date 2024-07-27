@@ -11,4 +11,8 @@
 
 *.dSYM
 
-venv/
+.vscode/
+
+.DS_Store
+
+.venv/
