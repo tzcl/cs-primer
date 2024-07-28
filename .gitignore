@@ -11,8 +11,8 @@
 
 *.dSYM
 
-.vscode/
-
 .DS_Store
 
+.vscode/
 .venv/
+.ipynb_checkpoints/
