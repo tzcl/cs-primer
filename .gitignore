@@ -1,8 +1,11 @@
-# Ignore all
+# Ignore all to avoid committing binaries
 *
 
 # Unignore all with extensions
 !*.*
+
+# Unignore justfile
+!justfile
 
 # Unignore all dirs
 !*/
