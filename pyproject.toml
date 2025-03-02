@@ -6,6 +6,10 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.5", # dependency of tqdm
     "matplotlib>=3.9.3",
     "nbstripout>=0.8.1",
+    "networkx>=3.4.2",
+    "ray[default]>=2.43.0",
+    "tqdm>=4.67.1",
 ]
